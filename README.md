@@ -17,7 +17,7 @@
 #### 每日一题
 - [x] [【Day 01】989. 数组形式的整数加法](https://github.com/ZhangNN2018/91alg/blob/main/Basic/array_stack_queue/%E3%80%90Day%201%E3%80%91989.%20%E6%95%B0%E7%BB%84%E5%BD%A2%E5%BC%8F%E7%9A%84%E6%95%B4%E6%95%B0%E5%8A%A0%E6%B3%95.md)   
 - [x] [【Day 02】821. 字符的最短距离](https://github.com/ZhangNN2018/91alg/blob/main/Basic/array_stack_queue/%E3%80%90Day%202%E3%80%91821.%20%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E7%9F%AD%E8%B7%9D%E7%A6%BB.md)
-- [ ] [【Day 03】]()
+- [ ] [【Day 03】【Day 3】1381. 设计一个支持增量操作的栈]()
 - [ ] [【Day 04】]()
 - [ ] [【Day 05】]()
 - [ ] [【Day 06】]()
