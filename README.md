@@ -19,6 +19,6 @@
 - [x] [【Day 02】821. 字符的最短距离](https://github.com/ZhangNN2018/91alg/blob/main/Basic/array_stack_queue/%E3%80%90Day%202%E3%80%91821.%20%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E7%9F%AD%E8%B7%9D%E7%A6%BB.md)
 - [x] [【Day 03】1381. 设计一个支持增量操作的栈](https://github.com/ZhangNN2018/91alg/blob/main/Basic/array_stack_queue/%E3%80%90Day%203%E3%80%911381.%20%E8%AE%BE%E8%AE%A1%E4%B8%80%E4%B8%AA%E6%94%AF%E6%8C%81%E5%A2%9E%E9%87%8F%E6%93%8D%E4%BD%9C%E7%9A%84%E6%A0%88.md)
 - [x] [【Day 04】394. 字符串解码](https://github.com/ZhangNN2018/91alg/blob/main/Basic/array_stack_queue/%E3%80%90Day%204%E3%80%91394.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%A7%A3%E7%A0%81.md)
-- [ ] [【Day 05】]()
+- [x] [【Day 05】【Day 5】232. 用栈实现队列](https://github.com/ZhangNN2018/91alg/blob/main/Basic/array_stack_queue/%E3%80%90Day%205%E3%80%91232.%20%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md#%E9%A2%98%E7%9B%AE%E6%8F%8F%E8%BF%B0)
 - [ ] [【Day 06】]()
 - [ ] [【Day 07】]()
