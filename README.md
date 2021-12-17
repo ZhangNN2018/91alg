@@ -21,7 +21,7 @@
 - [x] [【Day 04】394. 字符串解码](https://github.com/ZhangNN2018/91alg/blob/main/Basic/array_stack_queue/%E3%80%90Day%204%E3%80%91394.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%A7%A3%E7%A0%81.md)
 - [x] [【Day 05】232. 用栈实现队列](https://github.com/ZhangNN2018/91alg/blob/main/Basic/array_stack_queue/%E3%80%90Day%205%E3%80%91232.%20%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md#%E9%A2%98%E7%9B%AE%E6%8F%8F%E8%BF%B0)
 - [x] [【Day 06】768. 最多能完成排序的块 II](https://github.com/ZhangNN2018/91alg/blob/main/Basic/array_stack_queue/%E3%80%90Day%206%E3%80%91768.%20%E6%9C%80%E5%A4%9A%E8%83%BD%E5%AE%8C%E6%88%90%E6%8E%92%E5%BA%8F%E7%9A%84%E5%9D%97%20II.md)
-- [ ] [【Day 07】]()
+- [x] [【Day 07】61. 旋转链表](https://github.com/ZhangNN2018/91alg/blob/main/Basic/array_stack_queue/%E3%80%90Day%207%E3%80%9161.%20%E6%97%8B%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
 - [ ] [【Day 08】]()
 - [ ] [【Day 09】]()
 - [ ] [【Day 10】]()
