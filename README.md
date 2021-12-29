@@ -33,6 +33,6 @@
 - [x] [【Day 16】513. 找树左下角的值](https://github.com/ZhangNN2018/91alg/blob/main/Basic/array_stack_queue/%E3%80%90Day%2016%E3%80%91513.%20%E6%89%BE%E6%A0%91%E5%B7%A6%E4%B8%8B%E8%A7%92%E7%9A%84%E5%80%BC.md)
 - [ ] [【Day 17】]()
 - [ ] [【Day 18】]()
-- [ ] [【Day 19】]()
+- [x] [【Day 19】1. 两数之和](https://github.com/ZhangNN2018/91alg/blob/main/Basic/array_stack_queue/%E3%80%90Day%2019%E3%80%911.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 - [ ] [【Day 20】]() 
 - [ ] [【Day 21】]() 
