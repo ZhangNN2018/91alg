@@ -34,5 +34,5 @@
 - [ ] [【Day 17】]()
 - [ ] [【Day 18】]()
 - [x] [【Day 19】1. 两数之和](https://github.com/ZhangNN2018/91alg/blob/main/Basic/array_stack_queue/%E3%80%90Day%2019%E3%80%911.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
-- [ ] [【Day 20】]() 
+- [x] [【Day 20】347. 前 K 个高频元素](https://github.com/ZhangNN2018/91alg/blob/main/Basic/array_stack_queue/%E3%80%90Day%2020%E3%80%91347.%20%E5%89%8D%20K%20%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md) 
 - [ ] [【Day 21】]() 
